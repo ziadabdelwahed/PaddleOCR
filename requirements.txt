@@ -1,3 +1,4 @@
+streamlit
 shapely
 scikit-image
 pyclipper
